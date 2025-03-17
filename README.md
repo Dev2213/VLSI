@@ -23,22 +23,18 @@ Verification: Simulation and hardware testing are performed to ensure correct fu
 Project Structure
 
 
-
-  1x3_router/
-   fifo.v
-   fsm.v
-   register.v
-   sync.v
-   top.v
-   
-      testbench/
-    ├── fifo_tb.v
-    ├── fsm_tb.v
-    ├── register_tb.v
-    ├── sync_tb.v
-    └── top_tb.v
-
-    
+1x3_router/
+ fifo.v
+ fsm.v
+ register.v
+ sync.v
+ top.v
+testbench/
+ fifo_tb.v
+ fsm_tb.v
+ register_tb.v
+ sync_tb.v
+ top_tb.v
 Usage
 
 Simulation: Use a Verilog simulator (e.g., ModelSim, Vivado Simulator) to simulate the design and testbenches.
