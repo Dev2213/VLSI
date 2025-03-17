@@ -24,14 +24,14 @@ Project Structure
 
 
 
-1x3_router/
-├── src/
-│   ├── fifo.v
-│   ├── fsm.v
-│   ├── register.v
-│   ├── sync.v
-│   └── top.v
-└── testbench/
+  1x3_router/
+   fifo.v
+   fsm.v
+   register.v
+   sync.v
+   top.v
+   
+      testbench/
     ├── fifo_tb.v
     ├── fsm_tb.v
     ├── register_tb.v
