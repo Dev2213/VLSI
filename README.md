@@ -35,6 +35,8 @@ testbench/
  register_tb.v
  sync_tb.v
  top_tb.v
+
+ 
 Usage
 
 Simulation: Use a Verilog simulator (e.g., ModelSim, Vivado Simulator) to simulate the design and testbenches.
