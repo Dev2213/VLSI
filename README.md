@@ -52,8 +52,11 @@ Tools Utilized
 
 RTL: Xlinix ISE
 Synthesis: Design Compiler (Synopsys)
+
 P&R Tools: IC Compiler II (Synopsys)
+
 Extraction Tools: Star-RC (Synopsys)
+
 Static Timing Analysis: Primetime (Synopsys)
 Physical Verification: Calibre (Siemens)
 
