@@ -22,6 +22,8 @@ Synthesis and Implementation: Xilinx Vivado is used to synthesize and implement 
 Verification: Simulation and hardware testing are performed to ensure correct functionality and timing.
 Project Structure
 
+
+
 1x3_router/
 ├── src/
 │   ├── fifo.v
@@ -35,6 +37,8 @@ Project Structure
     ├── register_tb.v
     ├── sync_tb.v
     └── top_tb.v
+
+    
 Usage
 
 Simulation: Use a Verilog simulator (e.g., ModelSim, Vivado Simulator) to simulate the design and testbenches.
